@@ -1,0 +1,104 @@
+{
+  "images": [
+    {
+      "filename": "capsit-Small.png",
+      "idiom": "iphone",
+      "scale": "1x",
+      "size": "29x29"
+    },
+    {
+      "filename": "capsit-Small@2x.png",
+      "idiom": "iphone",
+      "scale": "2x",
+      "size": "29x29"
+    },
+    {
+      "filename": "capsit.png",
+      "idiom": "iphone",
+      "scale": "1x",
+      "size": "57x57"
+    },
+    {
+      "filename": "capsit@2x.png",
+      "idiom": "iphone",
+      "scale": "2x",
+      "size": "57x57"
+    },
+    {
+      "filename": "capsit-Small-40@2x.png",
+      "idiom": "iphone",
+      "scale": "2x",
+      "size": "40x40"
+    },
+    {
+      "filename": "capsit-60@2x.png",
+      "idiom": "iphone",
+      "scale": "2x",
+      "size": "60x60"
+    },
+    {
+      "filename": "capsit-Small.png",
+      "idiom": "ipad",
+      "scale": "1x",
+      "size": "29x29"
+    },
+    {
+      "filename": "capsit-Small@2x.png",
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "29x29"
+    },
+    {
+      "filename": "capsit-Small-40.png",
+      "idiom": "ipad",
+      "scale": "1x",
+      "size": "40x40"
+    },
+    {
+      "filename": "capsit-Small-40@2x.png",
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "40x40"
+    },
+    {
+      "filename": "capsit-Small-50.png",
+      "idiom": "ipad",
+      "scale": "1x",
+      "size": "50x50"
+    },
+    {
+      "filename": "capsit-Small-50@2x.png",
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "50x50"
+    },
+    {
+      "filename": "capsit-72.png",
+      "idiom": "ipad",
+      "scale": "1x",
+      "size": "72x72"
+    },
+    {
+      "filename": "capsit-72@2x.png",
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "72x72"
+    },
+    {
+      "filename": "capsit-76.png",
+      "idiom": "ipad",
+      "scale": "1x",
+      "size": "76x76"
+    },
+    {
+      "filename": "capsit-76@2x.png",
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "76x76"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": "1"
+  }
+}

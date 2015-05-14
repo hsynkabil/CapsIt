@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6EDE84F2-8526-458F-9D40-5952A0626A54</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CapsIt</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D878347F3C87290448E02D570493373A80046B29</key>
+		<string>https://github.com/hsynkabil/CapsIt.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CapsIt/CapsIt.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D878347F3C87290448E02D570493373A80046B29</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hsynkabil/CapsIt.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D878347F3C87290448E02D570493373A80046B29</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D878347F3C87290448E02D570493373A80046B29</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CapsIt</string>
+		</dict>
+	</array>
+</dict>
+</plist>
